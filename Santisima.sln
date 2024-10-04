@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santisima", "Santisima\Sant
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santisima.Client", "Santisima\Santisima.Client\Santisima.Client.csproj", "{22A457AB-D8EB-4BA0-9F11-8214C7A257F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{5A1A397F-EAEE-4C74-9CB1-24BB5DE94898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{22A457AB-D8EB-4BA0-9F11-8214C7A257F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A457AB-D8EB-4BA0-9F11-8214C7A257F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A457AB-D8EB-4BA0-9F11-8214C7A257F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1A397F-EAEE-4C74-9CB1-24BB5DE94898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1A397F-EAEE-4C74-9CB1-24BB5DE94898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1A397F-EAEE-4C74-9CB1-24BB5DE94898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1A397F-EAEE-4C74-9CB1-24BB5DE94898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
